@@ -18,7 +18,7 @@ export function Header() {
             alt="Landlorder"
             width={40}
             height={40}
-            className="rounded-lg"
+            className="rounded-lg h-auto w-auto"
           />
           <span className="text-xl font-bold text-foreground">Landlorder</span>
         </Link>
